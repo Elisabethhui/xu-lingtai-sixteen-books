@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# 影印底本原始扫描件与中间产物（体积大，不纳入文本库）
+sources/
+*.pdf
+*.tif
+*.tiff
+*.jpg
+*.png
+!docs/**/*.png
